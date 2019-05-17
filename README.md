@@ -1,7 +1,7 @@
 ## Mouse Auto Move
 
 ### Usage
-
+- `python3 mouse.py --delta 5`
 
 ### install pyautogui
 - MacOS:
